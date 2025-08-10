@@ -1,0 +1,26 @@
+user_id,name,age,gender,location,preferred_style,preferred_category
+1,Aarav Sharma,28,M,Delhi,Performance,Running
+2,Neha Verma,25,F,Mumbai,Classic,Casual
+3,Arjun Singh,35,M,Bangalore,Outdoor,Hiking
+4,Simran Kaur,30,F,Chandigarh,Street,Lifestyle
+5,Rahul Nair,40,M,Kochi,Classic,Winter
+6,Pooja Patel,22,F,Ahmedabad,Performance,Training
+7,Vikram Iyer,33,M,Hyderabad,Street,Casual
+8,Ishita Mehta,29,F,Pune,Performance,Running
+9,Kunal Kapoor,27,M,Delhi,Outdoor,Hiking
+10,Meera Sinha,31,F,Jaipur,Classic,Casual
+11,Saurabh Yadav,24,M,Lucknow,Street,Lifestyle
+12,Nisha Rao,28,F,Goa,Outdoor,Hiking
+13,Manish Kumar,36,M,Delhi,Classic,Winter
+14,Ritika Jain,26,F,Bangalore,Performance,Running
+15,Rohan Das,23,M,Kolkata,Street,Lifestyle
+16,Tanya Aggarwal,34,F,Chennai,Classic,Winter
+17,Aditya Roy,29,M,Indore,Performance,Training
+18,Kritika Bansal,21,F,Delhi,Street,Casual
+19,Dev Sharma,37,M,Mumbai,Outdoor,Hiking
+20,Ananya Sen,28,F,Kolkata,Classic,Casual
+21,Amit Malhotra,41,M,Delhi,Classic,Winter
+22,Priya Menon,27,F,Kochi,Performance,Running
+23,Sanjay Gupta,32,M,Ahmedabad,Outdoor,Hiking
+24,Shreya Dutta,25,F,Pune,Street,Lifestyle
+25,Harsh Kapoor,30,M,Bangalore,Performance,Training

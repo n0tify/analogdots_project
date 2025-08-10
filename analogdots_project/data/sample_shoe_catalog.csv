@@ -1,0 +1,51 @@
+shoe_id,name,brand,category,price,weather,style,release_date
+1,Air Zoom Pegasus,Nike,Running,120,All,Performance,2023-05-01
+2,Ultraboost 22,Adidas,Running,180,All,Performance,2023-04-15
+3,Wave Rider 25,Mizuno,Running,150,All,Performance,2023-03-20
+4,Cloud X,On,Running,160,All,Performance,2023-05-10
+5,Metcon 7,Nike,Training,140,Indoor,Performance,2022-11-01
+6,Nano X2,Reebok,Training,130,Indoor,Performance,2022-10-15
+7,Chuck Taylor High,Converse,Casual,60,Dry,Street,2021-06-01
+8,Stan Smith,Adidas,Casual,85,Dry,Classic,2021-05-20
+9,Old Skool,Van’s,Casual,70,Dry,Street,2021-04-10
+10,Air Force 1,Nike,Casual,100,Dry,Classic,2022-02-15
+11,Classic Leather,Reebok,Casual,75,Dry,Classic,2022-01-10
+12,Trail Glove 6,Merrell,Hiking,110,Rain,Outdoor,2022-07-01
+13,Speedgoat 5,Hoka,Hiking,155,All,Outdoor,2023-03-05
+14,X Ultra 4,Salomon,Hiking,150,Rain,Outdoor,2023-02-18
+15,Terrex Swift R3,Adidas,Hiking,140,Rain,Outdoor,2023-01-25
+16,Moab 3,Merrell,Hiking,135,Rain,Outdoor,2022-08-14
+17,Boots 1460,Dr. Martens,Winter,150,Snow,Classic,2021-11-11
+18,Caribou,Sorel,Winter,200,Snow,Outdoor,2022-12-05
+19,Winter Carnival,Sorel,Winter,190,Snow,Outdoor,2022-12-15
+20,Blundstone 500,Blundstone,Winter,170,Snow,Classic,2021-10-10
+21,Cloudmonster,On,Running,170,All,Performance,2023-04-02
+22,InfinityRN 4,Nike,Running,160,All,Performance,2023-03-15
+23,Samba OG,Adidas,Casual,100,Dry,Classic,2021-09-01
+24,Slip-On Checkerboard,Van’s,Casual,65,Dry,Street,2021-07-20
+25,Air Jordan 1 Retro,Nike,Lifestyle,170,Dry,Street,2023-01-20
+26,Suede Classic,Puma,Casual,70,Dry,Classic,2021-06-12
+27,Speedcross 6,Salomon,Hiking,160,Rain,Outdoor,2023-02-01
+28,XT-6,Salomon,Lifestyle,200,All,Street,2023-03-22
+29,Cloudnova,On,Lifestyle,170,All,Street,2023-04-25
+30,React Infinity 3,Nike,Running,165,All,Performance,2023-05-15
+31,ZoomX Vaporfly,Nike,Running,250,Dry,Performance,2023-06-01
+32,Adizero Adios Pro 3,Adidas,Running,240,Dry,Performance,2023-06-10
+33,Boston 12,Adidas,Running,150,All,Performance,2023-04-12
+34,Fresh Foam 1080,New Balance,Running,160,All,Performance,2023-03-28
+35,993 Made in USA,New Balance,Lifestyle,200,Dry,Classic,2022-09-15
+36,327,New Balance,Lifestyle,110,All,Street,2022-07-01
+37,XT Wings 2,Salomon,Hiking,170,Rain,Outdoor,2023-02-14
+38,Wildhorse 8,Nike,Hiking,140,All,Outdoor,2023-04-05
+39,Alpine Snow Boot,North Face,Winter,220,Snow,Outdoor,2022-11-20
+40,Explorer Carnival,Sorel,Winter,180,Snow,Outdoor,2022-12-25
+41,Gel-Kayano 30,ASICS,Running,160,All,Performance,2023-05-08
+42,GT-2000 11,ASICS,Running,150,All,Performance,2023-04-19
+43,Sk8-Hi,Van’s,Casual,80,Dry,Street,2021-08-12
+44,Era,Van’s,Casual,60,Dry,Street,2021-07-25
+45,Zoom Freak 5,Nike,Basketball,150,Indoor,Performance,2023-02-20
+46,Harden Vol. 7,Adidas,Basketball,160,Indoor,Performance,2023-03-11
+47,Curry Flow 10,Under Armour,Basketball,160,Indoor,Performance,2023-01-30
+48,LeBron 20,Nike,Basketball,200,Indoor,Performance,2023-02-25
+49,Yeezy Boost 350,Adidas,Lifestyle,220,Dry,Street,2023-05-22
+50,RS-X,Puma,Lifestyle,120,All,Street,2022-09-01
